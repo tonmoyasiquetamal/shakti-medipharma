@@ -1,0 +1,8 @@
+/* Footer Contain BG Color with overall sizing */
+.footer-container {
+    background-color: #5C6BC0;
+    padding: 10px;
+    color: rgb(216, 209, 209);
+    bottom: 0;
+    width: 100%;
+  }

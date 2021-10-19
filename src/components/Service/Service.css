@@ -1,0 +1,22 @@
+/*Service are Sizing  */
+.card-image{
+    width: 250px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.card{
+    width: 400px;
+    height: 450px;
+    border: none;
+    border-radius: 10px;
+    background-color: #B2EBF2;
+    
+}
+
+.card:hover{
+    box-shadow: 30px 30px 30px 30px lightgray;
+    border: 1px solid lightgrey;
+    background-color: #F8BBD0;
+}

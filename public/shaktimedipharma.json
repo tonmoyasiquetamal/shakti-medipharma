@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Clinical Diagnostics Laboratory",
+        "description": "Shakti MediPharma boasts one of the highest installations of clinical diagnostics laboratories in all of Bangladesh. In 2002 till 2021 alone.Medical professionals such as WHO agree that embracing the 6 components of health will allow patients to lead more complete lives.",
+        "img": "https://i.ibb.co/x5jYP0W/cdl.png"
+    },
+    {
+        "id": 2,
+        "name": "Nursing Care",
+        "description": "services provided by a health care agency that permit a primary caregiver temporary relief from caring for an ill individual. 2. in the nursing interventions classification, a nursing intervention defined as the provision of short-term care to provide relief for a family caregiver.",
+        "img": "https://i.ibb.co/JyDzMBJ/nc.png"
+    },
+    {
+        "id": 3,
+        "name": "Speech Therapy",
+        "description": "Speech therapy is treatment for problems with speaking, language, and swallowing. It is given by a speech therapist, also called a speech-language pathologist. Speech therapy helps with using the voice properly and using the muscles to make the right sounds.",
+        "img": "https://i.ibb.co/z5x6yn5/st.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Physiotherapy",
+        "description": "Physiotherapy is treatment to restore,Minor injuries you might expect 2-3 sessions of physiotherapy; soft tissue injuries you would be looking more towards 6 – 8 weeks, as this is roughly how long it takes for soft tissue to heal in most cases;",
+        "img": "https://i.ibb.co/rMVxbFc/pt.jpg"
+    },
+    {
+        "id": 5,
+        "name": "CardioGraphy",
+        "description": "In this standard type of echocardiogram: A technician (sonographer) spreads gel on a device (transducer). The sonographer presses the transducer firmly against your skin, aiming an ultrasound beam through your chest to your heart.",
+        "img": "https://i.ibb.co/T8bxjr5/cd.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Child Care",
+        "description": "According to research, enrollment in a high-quality daycare center can have a significant, long-lasting impact on children's social and emotional development. Early childhood have been higher levels of empathy, resilience behavior later in life.",
+        "img": "https://i.ibb.co/fnLQM8y/cc.png"
+    },
+    {
+        "id": 7,
+        "name": "Ambulance Services",
+        "description": "The ambulance service is the emergency response wing of the National Health Service (NHS). The ambulance service has two main functions: an accident and emergency paramedical function, and the Patient Transport Service function which transfers immobile patients to and from their hospital appointments",
+        "img": "https://i.ibb.co/VYM0tXt/as.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Bypass Surgery",
+        "description": "Heart bypass surgeries are serious but relatively safe. Surgeons perform hundreds of thousands of heart bypass operations each year and many of those who have the surgery get relief from their symptoms without needing long-term medication. The more severe the heart disease, the higher the risk of complications.",
+        "img": "https://i.ibb.co/CmSZyry/bs.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Emergency Medical Services",
+        "description": "EMS agency types can be divided into three main groups: 1 EMS agencies respond- ing to 911-based emergencies with or without transport; 2 EMS agencies that provide scheduled medical transport, often referred to as non-emergent transport; and 3 EMS agencies known as Specialty Care Transport that provide emergent .",
+        "img": "https://i.ibb.co/Rc3yvKg/ems.jpg"
+    }
+]
