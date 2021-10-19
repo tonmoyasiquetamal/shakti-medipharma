@@ -11,7 +11,7 @@ const Header = () => {
 
         /*<-----Navbar From React Bootstrap For Showing Site Top----> */
         <div>
-            <Navbar collapseOnSelect expand="lg" bg="light" variant="danger">
+            <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
                 <Container>
                     <Navbar.Brand as={HashLink} to="/home">
                         Shakti Medi Pharma
